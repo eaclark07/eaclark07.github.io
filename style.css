@@ -119,6 +119,10 @@ header, #content, #middle, #sidebar {
     border: solid 1px #ccc;
 }*/
 
+#pagewrap{
+    border: solid 1px #ccc;
+}
+
 //#pagewrap, header, #content, #middle, #sidebar, footer {
 //	border: solid 1px #ccc;
 //}
